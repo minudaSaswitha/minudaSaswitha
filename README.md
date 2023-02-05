@@ -1,4 +1,4 @@
-![MasterHead](https://www.linkpicture.com/q/2738.jpg)
+![MasterHead](https://www.linkpicture.com/q/2738_1.jpg)
 <h1 align="center">Hi 👋, I'm Minuda</h1>
 <h3 align="center">Exploring the world of code and sharing my journey with the community</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">

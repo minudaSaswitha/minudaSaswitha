@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **minudasaswitha05@gmail.com**
 
-- ⚡ Fun fact **I am still learning and improving my skills**
+- ⚡ **I am still learning and improving my skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

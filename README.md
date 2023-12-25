@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/msaswitha" target="blank"><img src="https://img.shields.io/twitter/follow/msaswitha?logo=twitter&style=for-the-badge" alt="msaswitha" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA,C++**
 
-- 💬 Ask me about **C#,jQuery,HTML 5,SQL,PHP,PYTHON,Bootstrap,CSS**
 
 - 📫 How to reach me **minudasaswitha05@gmail.com**
 
